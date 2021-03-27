@@ -1,0 +1,12 @@
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.deps.json
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\ref\MB.Domain.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\bin\Debug\net5.0\MB.Domain.pdb
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csprojAssemblyReference.cache
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfoInputs.cache
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.AssemblyInfo.cs
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.csproj.CoreCompileInputs.cache
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\ref\MB.Domain.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Domain\obj\Debug\net5.0\MB.Domain.pdb
