@@ -21,8 +21,8 @@ namespace MB.Domain.ArticleCategoryAgg
         }
 
         public void GuardAgainstEmptyTitle(string title)
-        { 
-            if (string.IsNullOrEmpty(title))
+        {
+            if (string.IsNullOrWhiteSpace(title))
                 throw new ArgumentNullException();
         }
 

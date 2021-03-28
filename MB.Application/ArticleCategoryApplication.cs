@@ -11,8 +11,7 @@ namespace MB.Application
         private readonly IArticleCategoryRepository _articleCategoryRepository;
         private readonly IArticleCategoryValidatorService _articleCategoryValidatorService;
 
-        public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository,
-            IArticleCategoryValidatorService articleCategoryValidatorService)
+        public ArticleCategoryApplication(IArticleCategoryRepository articleCategoryRepository, IArticleCategoryValidatorService articleCategoryValidatorService)
         {
             _articleCategoryRepository = articleCategoryRepository;
             _articleCategoryValidatorService = articleCategoryValidatorService;
