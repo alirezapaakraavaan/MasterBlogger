@@ -8,4 +8,8 @@
     <ProjectReference Include="..\MB.Application.Contracts\MB.Application.Contracts.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ArticleAgg\Services\" />
+  </ItemGroup>
+
 </Project>
