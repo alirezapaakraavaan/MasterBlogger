@@ -89,3 +89,4 @@ D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\bin\D
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
