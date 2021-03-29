@@ -91,3 +91,6 @@ D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\D
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs

@@ -19,3 +19,5 @@ D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\obj\De
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
