@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using MB.Application.Contracts.Article;
 using MB.Domain.ArticleAgg;
 
@@ -45,6 +46,20 @@ namespace MB.Application
                 Content = article.Content,
                 ArticleCategoryId = article.ArticleCategoryId
             };
+        }
+
+        public void Remove(long id)
+        {
+            var article = _articleRepository.Get(id);
+            article.Remove();
+            _articleRepository.Save();
+        }
+
+        public void Activate(long id)
+        {
+            var article = _articleRepository.Get(id);
+            article.Activate();
+            _articleRepository.Save();
         }
     }
 }
