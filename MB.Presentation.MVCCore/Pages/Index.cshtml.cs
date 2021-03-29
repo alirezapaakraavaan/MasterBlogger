@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using MB.Infrastructure.Query;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Extensions.Logging;
 
 namespace MB.Presentation.MVCCore.Pages
 {
