@@ -17,3 +17,5 @@ D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\obj\D
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.dll
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\ref\MB.Infrastructure.Query.dll
 D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\obj\Debug\net5.0\MB.Infrastructure.Query.pdb
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\01_Framework.dll
+D:\PROGRAMING\C#\Core\Master Blogger\MasterBlogger\MB.Infrastructure.Query\bin\Debug\net5.0\01_Framework.pdb
