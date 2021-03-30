@@ -9,7 +9,7 @@ namespace MB.Domain.CommentAgg
         public string Name { get; private set; }
         public string Email { get; private set; }
         public string Message { get; private set; }
-        public int Status { get; private set; } //New=0, Confirmed = 1, Cancel = 2
+        public int Status { get; private set; }
         public DateTime CreationDate { get; private set; }
         public long ArticleId { get; private set; }
         public Article Article { get; private set; }
@@ -26,6 +26,16 @@ namespace MB.Domain.CommentAgg
             ArticleId = articleId;
             CreationDate = DateTime.Now;
             Status = Statuses.New;
+        }
+
+        public void Confirm()
+        {
+            Status = Statuses.Confirm;
+        }
+
+        public void Cancel()
+        {
+            Status = Statuses.Canceled;
         }
     }
 }
